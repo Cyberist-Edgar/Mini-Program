@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "社区",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "u-tabs": "/uview-ui/components/u-tabs/u-tabs",
+    "moment": "/components/moment/moment",
+    "my-moment": "/components/my-moment/my-moment",
+    "publish": "/components/publish/publish"
+  }
+}

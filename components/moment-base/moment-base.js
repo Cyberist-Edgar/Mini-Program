@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["components/moment-base/moment-base"],{"0c25":function(t,e,n){"use strict";(function(t){Object.defineProperty(e,"__esModule",{value:!0}),e.default=void 0;n("2f62");var u={props:{list:{type:Array,required:!0},show:{type:Boolean,default:!0}},filters:{dateFormat:function(t){return t=new Date(t),[t.getFullYear(),t.getMonth()+1,t.getDate()].join("-")+" "+[t.getHours(),t.getMinutes()].join(":")}},methods:{navigate:function(e){console.log(e),t.navigateTo({url:"/pages/publish-detail/publish-detail?id="+e})}}};e.default=u}).call(this,n("543d")["default"])},"152f":function(t,e,n){"use strict";n.r(e);var u=n("0c25"),a=n.n(u);for(var r in u)"default"!==r&&function(t){n.d(e,t,(function(){return u[t]}))}(r);e["default"]=a.a},2039:function(t,e,n){"use strict";var u=n("c520"),a=n.n(u);a.a},"4e5d":function(t,e,n){"use strict";n.r(e);var u=n("8e13"),a=n("152f");for(var r in a)"default"!==r&&function(t){n.d(e,t,(function(){return a[t]}))}(r);n("2039");var o,i=n("f0c5"),c=Object(i["a"])(a["default"],u["b"],u["c"],!1,null,"ca01bfe4",null,!1,u["a"],o);e["default"]=c.exports},"8e13":function(t,e,n){"use strict";var u={uGap:function(){return n.e("uview-ui/components/u-gap/u-gap").then(n.bind(null,"83e5"))},uAvatar:function(){return n.e("uview-ui/components/u-avatar/u-avatar").then(n.bind(null,"0691"))}},a=function(){var t=this,e=t.$createElement,n=(t._self._c,t.__map(t.list,(function(e,n){var u=t._f("dateFormat")(e.date);return{$orig:t.__get_orig(e),f0:u}})));t.$mp.data=Object.assign({},{$root:{l0:n}})},r=[];n.d(e,"b",(function(){return a})),n.d(e,"c",(function(){return r})),n.d(e,"a",(function(){return u}))},c520:function(t,e,n){}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'components/moment-base/moment-base-create-component',
+    {
+        'components/moment-base/moment-base-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('543d')['createComponent'](__webpack_require__("4e5d"))
+        })
+    },
+    [['components/moment-base/moment-base-create-component']]
+]);

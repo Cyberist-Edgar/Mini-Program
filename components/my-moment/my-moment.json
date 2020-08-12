@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "moment-base": "/components/moment-base/moment-base",
+    "u-modal": "/uview-ui/components/u-modal/u-modal"
+  },
+  "component": true
+}

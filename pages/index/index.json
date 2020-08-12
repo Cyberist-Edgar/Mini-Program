@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "首页",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "edgar-swiper": "/components/edgar-swiper/edgar-swiper",
+    "u-gap": "/uview-ui/components/u-gap/u-gap",
+    "u-notice-bar": "/uview-ui/components/u-notice-bar/u-notice-bar",
+    "notice": "/components/notice/notice"
+  }
+}

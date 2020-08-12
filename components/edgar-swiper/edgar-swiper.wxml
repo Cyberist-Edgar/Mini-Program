@@ -1,0 +1,1 @@
+<view><u-swiper style="{{'text-align:'+('center')+';'}}" vue-id="2c4d16fc-1" list="{{list}}" title="{{title}}" border-radius="{{0}}" data-event-opts="{{[['^click',[['handleClick']]]]}}" bind:click="__e" bind:__l="__l"></u-swiper></view>

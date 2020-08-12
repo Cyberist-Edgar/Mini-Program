@@ -1,0 +1,1 @@
+<view class="content data-v-a36fcf24"><view class="title data-v-a36fcf24"><slot name="title"></slot></view><u-divider vue-id="5fc79f3c-1" half-width="48%" use-slot="{{false}}" class="data-v-a36fcf24" bind:__l="__l"></u-divider><view class="detail data-v-a36fcf24"><slot name="detail"></slot></view></view>

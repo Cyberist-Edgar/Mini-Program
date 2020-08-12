@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "同学录",
+  "usingComponents": {
+    "u-tabs": "/uview-ui/components/u-tabs/u-tabs",
+    "u-notice-bar": "/uview-ui/components/u-notice-bar/u-notice-bar",
+    "photos": "/components/photos/photos"
+  }
+}

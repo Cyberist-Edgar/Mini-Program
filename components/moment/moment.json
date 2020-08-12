@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "moment-base": "/components/moment-base/moment-base"
+  },
+  "component": true
+}
